@@ -26,7 +26,7 @@ SECRET_KEY = '!w-i7%*&n)m!2q3e-$)m6@56x-y$5r2vt*8cnm(3p5o)td)fzv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://intense-brushlands-54914.herokuapp.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['intense-brushlands-54914.herokuapp.com/', 'localhost', '127.0.0.1']
 
 
 # Application definition
